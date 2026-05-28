@@ -54,11 +54,13 @@ A scalable MERN-based school management system with multi-role dashboards, secur
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced MERN Architecture
-* Performance Optimization
-* Scalable Backend Systems
+##  🚀 About Me
+🔭 Currently Building: Multi-Tenant School Management Platform
+🌱 Currently Learning: Advanced MERN Architecture & Scalable Systems
+💡 Interested In: Full Stack Development, System Design & Scalable Applications
+🎯 Goal: Become a high-impact Full Stack Software Engineer
+📍 Location: Jalaun, Uttar Pradesh, India
+💼 Open to Relocation
 
 ---
 
